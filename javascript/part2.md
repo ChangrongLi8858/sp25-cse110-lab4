@@ -127,3 +127,12 @@ Both are true in boolean
 ## Explain the difference between the == and === operators.
 '==' performs type coercion before comparison. 
 '===' is strictly equal and does not perform type conversion. only return true when the types and values are both the same
+
+##  Loops - 16. Given the above Object, write a for...in loop that will iterate through it and print out the value of the property if the property starts with the letter r, or if the value of that property is an odd number.  (This should be in a JS file part2-question16.js)
+As part2-question16.js shows. The program prints:
+21
+45
+5
+2
+
+##  Functions - 17. If the function above is called with the following parameters modifyArray([1,2,3], doSomething), what will be the result? Briefly walk through how you arrived at that result. (This should be in your part2.md). Here we are passing in a function as a parameter, however we can also return a function from another function just as easily, you're encouraged to play around with callbacks as they are used heavily in frontend JS development. 
