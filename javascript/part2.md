@@ -148,7 +148,7 @@ Process:
 ## setInterval(), setTimeout(), clearTimeout() - 18.The above program only prints out the time once when executed. Modify this code such that the program prints out the current time every second.  (This should be a JS file - part2-question18.js)
 As shown in part2-question18.js
 
-##  What is the output of the above code? (This should be in your part2.md)
+##  19. What is the output of the above code? (This should be in your part2.md)
 1                             
 4                             
 3                             
