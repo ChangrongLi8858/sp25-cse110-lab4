@@ -24,7 +24,7 @@ Because 'let result' only exists within the 'if' code block. Outside the code bl
 #   const declaration
 
 ##  6. What is printed by line 9? If the code returns an error, explain why. ^^^^^
-TypeError: Assignment to constant variable.                     
+TypeError: `Assignment to constant variable`                      
 "const result =0" is defined in the fifth line; However, if this constant is assigned a value again on the seventh line, an error will occur on this line and the subsequent code will not continue to run
 
 ##  7. What is printed by line 13? If the code returns an error, explain why. 
